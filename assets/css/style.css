@@ -1,0 +1,88 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: url('/assets/img/123.jpg') no-repeat center center/cover;
+    color: black;
+    text-align: center;
+}
+
+header, footer {
+    background-color: #FFA2B9;
+    color: black;
+    padding: 1rem;
+    width: 100%;
+    text-align: center;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+header h1 {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Maven+Pro:wght@400..900&display=swap');
+h1 {
+    font-family: "Maven Pro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p {
+    max-width: 600px;
+    text-align: center;
+    color: #333;
+    line-height: 1.6;
+}
+
+.nav-buttons {
+    margin-top: 1rem;
+}
+
+.nav-buttons a {
+    text-decoration: none;
+    color: #333;
+    background-color: #FFA2B9;
+    padding: 0.5rem 1rem;
+    margin: 0 0.5rem;
+    border-radius: 5px;
+    border: 2px solid #333;
+    display: inline-block;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+.nav-buttons a:hover {
+    background-color: #FFE3E9;
+    color: #333;
+    border-color: #333;
+}
+
+footer {
+    background-color: #FFA2B9;
+    color: black;
+    padding: 1rem;
+    width: 100%;
+    text-align: center;
+}
