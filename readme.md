@@ -6,10 +6,10 @@
 <div align="center">
   <a href="https://github.com/nicollechoy/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="/assets/img/logo.png" alt="Tettiana Catporation" width="130" height="100">
+    <img src="/assets/img/logo.png" alt="logo" width="180" height="180">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Hero and Card</h3>
+  <h3 align="center">Hands On 2: Hero and Card</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -65,7 +65,7 @@ This project explores various designs for hero sections and cards, showcasing bo
 <!-- The following are just sample -->
 - MultiPage Website
 - Hover State
-- Default Button Style
+- Static and Animated
 
 ### Technology
 <!-- TODO: List of Technology Used -->
