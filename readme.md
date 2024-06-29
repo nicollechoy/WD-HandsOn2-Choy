@@ -114,5 +114,4 @@ WD-ProjectName
 | FreeFrontend | Get different CSS hero effects | https://freefrontend.com/css-hero-effects/ |
 | Google Fonts | Get different fonts | https://fonts.google.com/ |
 | Eggradients | Get background colors | https://www.eggradients.com/ |
-| CSS Card Hover Effects | HTML & CSS
- | Get ideas for card hover effect | https://youtu.be/k3TaSKUNuXs?si=tvuIbML28eRa3CA5 |
+| CSS Card Hover Effects HTML & CSS | Get ideas for card hover effect | https://youtu.be/k3TaSKUNuXs?si=tvuIbML28eRa3CA5 |
