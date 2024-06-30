@@ -10,7 +10,7 @@
 }
 
 body {
-    background-image: url(/pages/hero2/assets/img/hero2bg.jpg);
+    background-image: url(../img/hero2bg.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -170,19 +170,19 @@ h1{
 }
 
 .card1 {
-    background-image: url(/pages/hero2/assets/img/bakute.jpg);
+    background-image: url(../img/bakute.jpg);
 }
 
 .card2 {
-    background-image: url(/pages/hero2/assets/img/trufflepasta.jpg);
+    background-image: url(../img/trufflepasta.jpg);
 }
 
 .card3 {
-    background-image: url(/pages/hero2/assets/img/sweetnsourpork.jpg);
+    background-image: url(../img/sweetnsourpork.jpg);
 }
 
 .card4 {
-    background-image: url(/pages/hero2/assets/img/caramelfrappe.jpg);
+    background-image: url(../img/caramelfrappe.jpg);
 }
 
 .card-back1 {
