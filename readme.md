@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/nicollechoy/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="/assets/img/logo.png" alt="logo" width="180" height="180">
+    <img src="/assets/img/logo.png" alt="logo" width="200" height="200">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Hands On 2: Hero and Card</h3>
@@ -115,6 +115,5 @@ WD-ProjectName
 | FreeFrontend | Get different CSS hero effects | https://freefrontend.com/css-hero-effects/ |
 | Google Fonts | Get different fonts | https://fonts.google.com/ |
 | Eggradients | Get background colors | https://www.eggradients.com/ |
-| CSS Card Hover Effects | HTML & CSS
- | Get ideas for card hover effect | https://youtu.be/k3TaSKUNuXs?si=tvuIbML28eRa3CA5 |
-| CODEPEN | Get card ideas | https://codepen.io/collection/BNmZYN |
+| CSS Card Hover Effects HTML & CSS | Get ideas for card hover effect | https://youtu.be/k3TaSKUNuXs?si=tvuIbML28eRa3CA5 |
+| CODEPEN | Get card ideas  | https://codepen.io/collection/BNmZYN |
