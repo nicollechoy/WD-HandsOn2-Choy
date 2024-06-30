@@ -65,7 +65,8 @@ This project explores various designs for hero sections and cards, showcasing bo
 <!-- The following are just sample -->
 - MultiPage Website
 - Hover State
-- Static and Animated
+- Flip Animation
+- Static and Animation
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -116,3 +117,4 @@ WD-ProjectName
 | Eggradients | Get background colors | https://www.eggradients.com/ |
 | CSS Card Hover Effects | HTML & CSS
  | Get ideas for card hover effect | https://youtu.be/k3TaSKUNuXs?si=tvuIbML28eRa3CA5 |
+| CODEPEN | Get card ideas | https://codepen.io/collection/BNmZYN |
